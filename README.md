@@ -6,6 +6,7 @@ Malaysia, parsed into a tidy dataset and analysed to answer one question: how di
 small F&B business hold its cost structure through the food-inflation year of 2022?
 
 **Data:** 7,114 purchase records · 354 items · 10 suppliers · Jan–Dec 2022
+
 **Stack:** Python (pandas, matplotlib) · SQLite · LLM-assisted text classification
 
 > Supplier names are anonymised and revenue appears only as ratios. The underlying
