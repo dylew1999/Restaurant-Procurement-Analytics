@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30266952/README.md)
+
 # Procurement Analytics for a Malaysian Restaurant, 2022
 
 Twelve months of hand-kept purchase records from a family-run restaurant in Johor,
@@ -10,6 +10,22 @@ small F&B business hold its cost structure through the food-inflation year of 20
 
 > Supplier names are anonymised and revenue appears only as ratios. The underlying
 > figures are not published.
+
+## Interactive Dashboard
+
+**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/yao.lew/viz/RestaurantProcurementAnalytics2022/Dashboard1)**
+
+Four linked views built on the cleaned 2022 dataset:
+
+- **Monthly Spend** — procurement spend by month as a share of the annual total
+- **Supplier Concentration** — the top three suppliers account for ~86% of spend
+- **Top 10 Items by Spend** — pork shoulder alone is ~29%, chicken ~15%
+- **Spend Heatmap** — supplier activity across all twelve months, exposing mid-year onboarding and sourcing gaps
+
+Click any supplier bar to filter all four views simultaneously.
+
+All values are expressed as shares of total spend. Absolute figures are withheld
+for confidentiality. Source data is produced by `parse_kmyh.py` in this repo.
 
 ---
 
