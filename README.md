@@ -91,7 +91,7 @@ second source or against operational knowledge, not by the code failing.
 
 ![Ayam price](chart_ayam_price.png)
 
-Chicken was the single largest line item of the year, and its price moved with
+Chicken was the second-largest single item, after pork shoulder of the year, and its price moved with
 government intervention almost month for month.
 
 Prices sat at RM8.40–8.80/kg through the first quarter, just under the RM8.90 ceiling
